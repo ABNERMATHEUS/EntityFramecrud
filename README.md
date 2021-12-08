@@ -23,3 +23,14 @@
 📌 Estará disponível no .Nuget.org
 
 </aside>
+
+
+### Roadmap ?
+
+<aside>
+<ul>
+  <li>Repository CRUD com Entidade de auditoria - Banco de dados</li>
+  <li>Armazenamento de arquivo CRUD - Azure Blob </li>
+  <li>Cache - Redis </li>
+</ul>
+</aside>
