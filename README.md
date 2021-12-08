@@ -7,7 +7,7 @@
 ### O que é ?
 
 <aside>
-📌 É uma biblioteca em .NET com a responsabilidade de ser uma parte do infra de uma aplicação. Com intuito de fazer o CRUD de forma automática. Utilizando o Repository Pattern e EntityFramework 6.
+📌 É uma biblioteca em .NET com a responsabilidade de ser uma parte do infra de uma aplicação. Com intuito de fazer o CRUD de forma automática com auditoria das entidade de forma rápida. Utilizando o Repository Pattern e EntityFramework 6.
 </aside>
 
 ### Por que eu criei ?
