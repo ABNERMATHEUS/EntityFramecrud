@@ -2,7 +2,7 @@
   <img src="https://github.com/ABNERMATHEUS/InfraDotNet/blob/main/Logo.svg" width="320" alt="Logo" /></a>
 </p>
 
-# EntityFramecrud
+# InfraDotNet
 
 ### O que é ?
 
