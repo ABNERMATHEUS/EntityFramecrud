@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageProjectUrl></PackageProjectUrl>
-    <PackageIcon>ENTITY FRAMECRUD.png</PackageIcon>
+    <PackageIcon>Logo.png</PackageIcon>
     <RepositoryUrl>https://github.com/ABNERMATHEUS/InfraDotNet</RepositoryUrl>
     <RepositoryType>git.</RepositoryType>
     <Company>Abner Matheus</Company>
@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\Downloads\ENTITY FRAMECRUD.png">
+    <None Include="..\Logo.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
