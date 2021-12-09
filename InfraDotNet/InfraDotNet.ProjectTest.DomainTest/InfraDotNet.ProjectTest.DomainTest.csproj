@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InfraDotNet.Domain\InfraDotNet.Domain.csproj" />
+    <ProjectReference Include="..\InfraDotNet.Infra\InfraDotNet.Infra.csproj" />
   </ItemGroup>
 
 </Project>

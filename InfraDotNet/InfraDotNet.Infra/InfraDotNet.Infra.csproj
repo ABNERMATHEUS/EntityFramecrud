@@ -4,14 +4,23 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageIcon>ENTITY FRAMECRUD.png</PackageIcon>
+    <RepositoryUrl>https://github.com/ABNERMATHEUS/InfraDotNet</RepositoryUrl>
+    <RepositoryType>git.</RepositoryType>
+    <Company>Abner Matheus</Company>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <None Include="..\..\..\..\..\Downloads\ENTITY FRAMECRUD.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InfraDotNet.Domain\InfraDotNet.Domain.csproj" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
   </ItemGroup>
 
 </Project>
