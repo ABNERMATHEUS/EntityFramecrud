@@ -11,7 +11,12 @@ namespace InfraDotNet.Domain.Entity
     {
 
         protected BaseEntityInfraDotNet()
+        {            
+        }
+
+        protected BaseEntityInfraDotNet(TPrimaryKey id)
         {
+            Id = id;
         }
 
         [Key]

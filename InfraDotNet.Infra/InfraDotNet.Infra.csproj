@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\..\Downloads\ENTITY FRAMECRUD.png">
+    <None Include="..\..\..\..\Downloads\ENTITY FRAMECRUD.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
